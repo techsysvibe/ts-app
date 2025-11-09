@@ -1,2 +1,2 @@
-const greet = (name: string): string => 'Hello! from ${name}!';
+const greet = (name: string): string => `Welcome! from ${name}!`;
 console.log(greet('Team TechsysVibe'));
